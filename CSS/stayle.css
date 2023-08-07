@@ -1,0 +1,23 @@
+body {
+  font-family: "Lemon", cursive;
+  font-family: "Poppins", sans-serif;
+  font-family: "Space Grotesk", sans-serif;
+  min-height: 2000px;
+}
+
+.navbar-brand {
+  font-weight: 700;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#Projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
